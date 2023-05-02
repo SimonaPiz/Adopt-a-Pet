@@ -5,6 +5,7 @@ import PetDetailsNotFound from './pages/petDetailsNotFound';
 import Root from './components/root';
 
 // Add react-router-dom imports
+import { RouterProvider } from 'react-router-dom';
 // create router with JSX Route elements
 const appRouter = "REPLACE ME";
 
