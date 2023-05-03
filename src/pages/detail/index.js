@@ -39,7 +39,7 @@ const PetDetailsPage = () => {
       ) : (
         <main>
           <Hero
-            image={data.photos[1]?.full || 'https://i.imgur.com/aEcJUFK.png'}
+            image={data.photos[1]?.full || './media/aEcJUFK.png'}
             displayText={`Meet ${data.name}`}
           />
           <div className="pet-detail">
@@ -47,7 +47,7 @@ const PetDetailsPage = () => {
               <img
                 className="pet-image"
                 src={
-                  data.photos[0]?.medium || 'https://i.imgur.com/aEcJUFK.png'
+                  data.photos[0]?.medium || './media/aEcJUFK.png'
                 }
                 alt=""
               />
