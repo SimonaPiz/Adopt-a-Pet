@@ -1,7 +1,7 @@
 # Adopt a Pet - Web App
 > A React app to practice React Router v6
 
-Preview at [this link](https://adopt-a-pet_simonapiz.surge.sh/)
+Here is a working live demo [https://adopt-a-pet_simonapiz.surge.sh/](https://adopt-a-pet_simonapiz.surge.sh/)
 
 ![anteprima](https://user-images.githubusercontent.com/91121660/235917882-0f645705-805f-4dcb-a405-490e2e9e5c0e.png)
 
@@ -18,7 +18,7 @@ I building a pet adoption website that allows users to view all the animals of a
 
 - Currently, the app renders a `HomePage`component that fetches and displays all adoptable pets.
     - **src/pages/home/index.js**
-- We have also built a `PetDetailsPage` to display the details for a particular pet, but this component will not render until you create a route to display it.
+- We have also built a `PetDetailsPage` to display the details for a particular pet.
     - **src/pages/detail/index.js**
 
 > Use this database for mock data [Urgent Need for Pet Adoption - Find Dogs & Cats & More | Petfinder](https://www.petfinder.com/)
