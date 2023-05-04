@@ -48,3 +48,6 @@ $ cd ../[directory]
 $ npm install
 $ npm start
 ```
+
+## License
+MIT
