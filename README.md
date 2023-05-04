@@ -1,9 +1,15 @@
 # Adopt a Pet - Web App
 > A React app to practice React Router v6
 
-Demo at [Adopt-a-Pet](https://adopt-a-pet_simonapiz.surge.sh/)
+Preview at [this link](https://adopt-a-pet_simonapiz.surge.sh/)
 
 ![anteprima](https://user-images.githubusercontent.com/91121660/235917882-0f645705-805f-4dcb-a405-490e2e9e5c0e.png)
+
+## Table of contents
+* [About this project](#about-this-project)
+* [Objective](#objective)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
 ## About this project
 
@@ -33,3 +39,12 @@ The objective is to **add client-side routing to the application** using React R
 - React 18
 - React Router 6
 - uses Mock Service Worker (MSW) to replicate the functionality of an external API.
+
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ cd ../[directory]
+$ npm install
+$ npm start
+```
