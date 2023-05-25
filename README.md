@@ -3,7 +3,7 @@
 
 Here is a working live demo [https://adopt-a-pet_simonapiz.surge.sh/](https://adopt-a-pet_simonapiz.surge.sh/)
 
-![anteprima](https://user-images.githubusercontent.com/91121660/235917882-0f645705-805f-4dcb-a405-490e2e9e5c0e.png)
+<img width="1000px" src="https://user-images.githubusercontent.com/91121660/235917882-0f645705-805f-4dcb-a405-490e2e9e5c0e.png" alt="preview" title="preview"/>
 
 ## Table of contents
 * [About this project](#about-this-project)
