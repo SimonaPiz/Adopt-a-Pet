@@ -51,3 +51,6 @@ $ npm start
 
 ## License
 MIT
+
+## Acknowledgements
+This project comes from the [Codecademy's Front-End Engineer](https://join.codecademy.com/learn/paths/front-end-engineer-career-path-b/) course.
